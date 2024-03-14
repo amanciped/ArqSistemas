@@ -19,5 +19,5 @@ public class VehiculoDto implements Serializable{
     private long modelo;
     private long precio;
     private String propietario;
-    private long numIdentificacion;
+    private long identificacion;
 }
